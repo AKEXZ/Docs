@@ -1,2 +1,2 @@
 - Translations
-  - [:docs: 文档](/zh-cn/)
+  - [:zh: 文档](/zh-cn/)
