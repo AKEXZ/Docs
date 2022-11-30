@@ -10,7 +10,14 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      //...
+      loadSidebar: true, //加载侧边栏
+      alias: {
+      '/.*/_sidebar.md': '/_sidebar.md'
+      }
+      //loadSidebar: '/Back/_sidebar.md', //自定义侧边栏
+	    coverpage: true, //开启封面
+      loadNavbar: true, //开启导航栏
+      //hideSidebar: true, //隐藏侧边栏
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>

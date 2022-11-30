@@ -1,32 +1,24 @@
-## docsify
+## AKE备忘录
 
-> A magical documentation site generator.
+> 本程序使用docsify+GitHub pages搭建
 
-## What it is
+> 如果你想搭建一个跟我一样的网站[点击这里](./)
 
-Docsify generates your documentation website on the fly. Unlike GitBook, it does not generate static html files. Instead, it smartly loads and parses your Markdown files and displays them as a website. To start using it, all you need to do is create an `index.html` and [deploy it on GitHub Pages](deploy.md).
+> 本站使用的插件有：
 
-See the [Quick start](quickstart.md) guide for more details.
+- 1. 
+- 2. 
+- 3. 
 
-## Features
+> 所有直接或间接使用、查看本站的人均应该仔细阅读此声明。
 
-- No statically built html files
-- Simple and lightweight
-- Smart full-text search plugin
-- Multiple themes
-- Useful plugin API
-- Emoji support
-- Compatible with IE11
-- Support server-side rendering ([example](https://github.com/docsifyjs/docsify-ssr-demo))
+> 如果将继续预览，即视为您已接受此免责声明：
 
-## Examples
-
-Check out the [Showcase](https://github.com/docsifyjs/awesome-docsify#showcase) to see docsify in use.
-
-## Donate
-
-Please consider donating if you think docsify is helpful to you or that my work is valuable. I am happy if you can help me [buy a cup of coffee](https://github.com/QingWei-Li/donate). :heart:
-
-## Community
-
-Users and the development team are usually in the [Discord server](https://discord.gg/3NwKFyR).
+- 本站所发布的全部内容源于互联网搬运。
+- 部分内容仅限于小范围内传播学习和文献参考仅用于学习研究。
+- 不保证其合法性、准确性、有效性，请根据情况自行判断。
+- 请勿将本站内容用于任何商业或非法目的。
+- 若因使用本站内容引起任何事件本站对此概不负责。
+- 因本站内容引起的任何隐私泄漏或其他后果本站概不负责。
+- 如果任何单位或个人认为本站可能涉嫌侵犯其权利，应及时通知并提供身份证明，所有权证明，我将在收到认证文件确认后删除该内容。 
+- 本人保留随时更改或补充此声明的权利。
