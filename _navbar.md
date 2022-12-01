@@ -1,1 +1,1 @@
-- [cs自学指南](/cs-self-earning/index.md)
+- [cs学习规划](/cs-self-earning/CS学习规划.md)
