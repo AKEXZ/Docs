@@ -14,8 +14,9 @@
  - [字数统计]() - 它提供了统计中文汉字和英文单词的功能，并且排除了一些markdown语法的特殊字符例如*、-等。
  - [TAB选择卡](https://jhildenbiddle.github.io/docsify-tabs) - 用来在 Markdown 中显示选项卡。
  - [更多警告](https://github.com/fzankl/docsify-plugin-flexible-alerts) - 漂亮的警告，外观可以在全局级别和警告特定级别进行配置，以便输出符合您的需求。
- - [强化页脚](https://github.com/erickjx/docsify-footer-enh) - 页脚增强插件
+ - [页脚](https://alertbox.github.io/docsify-footer) - 页脚插件
  - [标题自动编号](https://github.com/markbattistella/docsify-autoHeaders) -  将文档标题变成级联编号的。非常适合大型文档，无需手动对所有标题进行编号。
+ - [更新时间](https://github.com/pfeak/docsify-updated) - 为每个文档添加更新时间
 
 
 ## 须知
