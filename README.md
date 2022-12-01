@@ -4,7 +4,7 @@
 
 > 如果你想搭建一个跟我一样的网站[点击这里](./)
 
-本站使用的插件有：
+插件：
 
  - [全文搜索 - Search]() - 全文搜索插件会根据当前页面上的超链接获取文档内容。
  - [代码高亮]() - 代码高亮工具是 Prism。
@@ -17,7 +17,11 @@
  - [页脚](https://alertbox.github.io/docsify-footer) - 页脚插件
  - [标题自动编号](https://github.com/markbattistella/docsify-autoHeaders) -  将文档标题变成级联编号的。非常适合大型文档，无需手动对所有标题进行编号。
  - [更新时间](https://github.com/pfeak/docsify-updated) - 为每个文档添加更新时间
+ - [ko-fi](https://github.com/fcannizzaro/docsify-ko-fi) - 添加自定义的 Ko-fi 按钮
 
+主题：
+
+ - [暗光](https://github.com/boopathikumar018/docsify-darklight-theme) - 可开启黑白变化主题
 
 ## 须知
 
