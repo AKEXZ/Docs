@@ -32,7 +32,7 @@
 
 主题：
 
- --[暗光](https://github.com/boopathikumar018/docsify-darklight-theme) - 可开启黑白变化主题--
+ - [暗光](https://github.com/boopathikumar018/docsify-darklight-theme) - 可开启黑白变化主题
 
 ## 须知
 
