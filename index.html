@@ -5,8 +5,6 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta charset="UTF-8">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css">
-  <!--暗主题-->
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-dark-mode@latest/dist/style.min.css"/>
 </head>
 <body>
   <div id="app"></div>
@@ -77,9 +75,14 @@
       style: 'text-align: content;',
       class: 'className',
     },
-    //暗主题
-    themeColor: "#42b983",
-
+    //标题自动编号
+    autoHeaders: {
+      separator: String,          // how numbers should be separated
+      custom:    String,          // if `separator` is set to other then specify own here
+      levels:    String | Object, // heading levels h[1-6]
+      scope:     String,          // plugin search scope
+      debug:     Boolean          // show console.log messages
+    },
     }
   </script>
 
@@ -124,8 +127,8 @@
   <script src="//unpkg.com/docsify-footer-enh/dist/docsify-footer-enh.min.js"></script>
   <!--强化页脚结束-->
 
-  <!--暗主题-->
-  <script src="//cdn.jsdelivr.net/npm/docsify-dark-mode@latest/dist/index.min.js"></script>
-  <!--暗主题结束-->
+  <!--标题自动编号-->
+  <script src="https://cdn.jsdelivr.net/npm/@markbattistella/docsify-autoheaders@latest"></script>
+  <!--标题自动编号-->
 </body>
 </html>

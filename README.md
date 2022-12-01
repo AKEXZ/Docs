@@ -15,7 +15,7 @@
  - [TAB选择卡](https://jhildenbiddle.github.io/docsify-tabs) - 用来在 Markdown 中显示选项卡。
  - [更多警告](https://github.com/fzankl/docsify-plugin-flexible-alerts) - 漂亮的警告，外观可以在全局级别和警告特定级别进行配置，以便输出符合您的需求。
  - [强化页脚](https://github.com/erickjx/docsify-footer-enh) - 页脚增强插件
- - [暗主题](https://github.com/anikethsaha/docsify-plugin/tree/master/packages/docsify-dark-mode) - 在您的文档化网站中添加暗模式支持
+ - [标题自动编号](https://github.com/markbattistella/docsify-autoHeaders) -  将文档标题变成级联编号的。非常适合大型文档，无需手动对所有标题进行编号。
 
 
 ## 须知
