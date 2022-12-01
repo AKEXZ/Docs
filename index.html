@@ -5,6 +5,8 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta charset="UTF-8">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css">
+  <!--暗主题-->
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-dark-mode@latest/dist/style.min.css"/>
 </head>
 <body>
   <div id="app"></div>
@@ -52,6 +54,43 @@
         tabComments: true,      // default
         tabHeadings: true       // default
      },
+     //警告框
+     'flexible-alerts': {
+      note: {
+        label: "注意"
+      },
+      tip: {
+        label: "Tipp"
+      },
+      warning: {
+        label: "警告"
+      },
+      attention: {
+        label: "错误"
+      }
+    },
+    //强化页脚
+    footer: {
+      copy: '<span>Acme &copy; 2022</span>',
+      auth: 'by DoTing',
+      pre: '<hr/>',
+      style: 'text-align: content;',
+      class: 'className',
+    },
+    //暗主题
+    darkMode: {
+      dark: {
+      background: "#1c2022",
+      toggleBtnBg: "#34495e",
+      textColor: "#b4b4b4"
+      },
+      light: {
+        background: "white",
+        toggleBtnBg: "var(--theme-color)",
+        textColor: "var(--theme-color)"
+      }
+    }
+
     }
   </script>
 
@@ -85,8 +124,19 @@
   <!--字数统计-->
 
   <!--TAB选择卡-->
-  <script src="https://cdn.jsdelivr.net/npm/docsify@4"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
   <!--TAB选择卡结束-->
+
+  <!--警告框-->
+  <script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
+  <!--警告框结束-->
+
+  <!--强化页脚-->
+  <script src="//unpkg.com/docsify-footer-enh/dist/docsify-footer-enh.min.js"></script>
+  <!--强化页脚结束-->
+
+  <!--暗主题-->
+  <script src="//cdn.jsdelivr.net/npm/docsify-dark-mode@latest/dist/index.min.js"></script>
+  <!--暗主题结束-->
 </body>
 </html>

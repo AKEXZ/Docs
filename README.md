@@ -13,6 +13,9 @@
  - [复制到剪贴板]() - 在所有的代码块上添加一个简单的Click to copy按钮来允许用户从你的文档中轻易地复制代码。
  - [字数统计]() - 它提供了统计中文汉字和英文单词的功能，并且排除了一些markdown语法的特殊字符例如*、-等。
  - [TAB选择卡](https://jhildenbiddle.github.io/docsify-tabs) - 用来在 Markdown 中显示选项卡。
+ - [更多警告](https://github.com/fzankl/docsify-plugin-flexible-alerts) - 漂亮的警告，外观可以在全局级别和警告特定级别进行配置，以便输出符合您的需求。
+ - [强化页脚](https://github.com/erickjx/docsify-footer-enh) - 页脚增强插件
+ - [暗主题](https://github.com/anikethsaha/docsify-plugin/tree/master/packages/docsify-dark-mode) - 在您的文档化网站中添加暗模式支持
 
 
 ## 须知
