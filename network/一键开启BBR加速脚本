@@ -1,5 +1,0 @@
-# 一键开启BBR加速脚本
-
-```bash
-bash &lt;(curl -Lso- https://git.io/kernel.sh)
-```
